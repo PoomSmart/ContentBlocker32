@@ -1,0 +1,9 @@
+Package: org.thebigboss.contentblocker32
+Name: ContentBlocker32
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Safari Content Blocker on 32-bit devices
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
